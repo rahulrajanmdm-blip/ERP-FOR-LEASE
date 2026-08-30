@@ -1,0 +1,6 @@
+{
+  "name": "Dream Dwell Rent ERP",
+  "description": "Dream Dwell Asset Management enterprise ERP with multi-property tenant billing, Canadian ASPE financial statements, period-wise & as-on reporting, Excel/PDF exports, Google Sheets migration, property image portfolios, and maintenance operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
